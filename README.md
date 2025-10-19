@@ -1,28 +1,5 @@
 # codenotes-by-bhumika
 "Website to sell  programming notes"
-<div class="notes">
-  <div class="note">
-    <h2>AI/ML CheatSheet</h2>
-    <a href="assets/AIML_CheatSheet.pdf" download>Preview</a>
-  </div>
-  <div class="note">
-    <h2>Complete SQL Guide</h2>
-    <a href="assets/Complete_SQL_Guide.pdf" download>Preview</a>
-  </div>
-</div>
-
-<h3>Scan & Pay ₹100</h3>
-<img src="assets/your_qr_code.png" alt="UPI QR Code" class="qr">
-
-<p>UPI ID: <strong>yourupi@okaxis</strong></p>
-
-<button onclick="showDownloads()">I Paid ₹100 – Show Downloads</button>
-
-<div id="downloads" style="display:none;">
-  <h3>Download Notes</h3>
-  <a href="assets/AIML_CheatSheet.pdf" download>AI/ML CheatSheet</a><br>
-  <a href="assets/Complete_SQL_Guide.pdf" download>SQL Guide</a>
-</div>
 <!DOCTYPE html>
 <html lang="en">
 <head>
