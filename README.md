@@ -26,7 +26,7 @@
     <h3>Scan & Pay ₹100</h3>
     <img src="assets/your_qr_code.png" alt="UPI QR Code" class="qr">
 
-    <p>UPI ID: <strong>yourupi@okaxis</strong></p>
+    <p>UPI ID: <strong>9596078322@ybl</strong></p>
 
     <button onclick="showDownloads()">I Paid ₹100 – Show Downloads</button>
 
